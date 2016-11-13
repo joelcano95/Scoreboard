@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ExamenM8UF1</string>
+    <string name="equipLocal">Equip Local</string>
+    <string name="equipVisitant">Equip Visitant</string>
+    <string name="jornada">Jornada</string>
+    <string name="comencar">Començar</string>
+    <string name="visitante">Visitant</string>
+    <string name="local">Local</string>
+    <string name="enviar">Enviar</string>
+    <string name="finalizar">Final</string>
+    <string-array name="equips">
+        <item>Barca</item>
+        <item>Madrid</item>
+        <item>Atleti</item>
+    </string-array>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="equipLocal">equipo Local</string>
+    <string name="equipVisitant">equipo Visitante</string>
+    <string name="jornada">Jornada</string>
+    <string name="comencar">Empezar</string>
+    <string name="visitante">Visitante</string>
+    <string name="local">Local</string>
+    <string name="enviar">Enviar</string>
+    <string name="finalizar">Final</string>
+    <string-array name="equips">
+        <item>Barca</item>
+        <item>Madrid</item>
+        <item>Atleti</item>
+    </string-array>
+</resources>
